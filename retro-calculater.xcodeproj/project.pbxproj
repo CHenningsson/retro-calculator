@@ -12,6 +12,8 @@
 		59BE23051C3063CD006DE6A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59BE23031C3063CD006DE6A6 /* Main.storyboard */; };
 		59BE23071C3063CD006DE6A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59BE23061C3063CD006DE6A6 /* Assets.xcassets */; };
 		59BE230A1C3063CD006DE6A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59BE23081C3063CD006DE6A6 /* LaunchScreen.storyboard */; };
+		59BE23121C308CBA006DE6A6 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 59BE23111C308CBA006DE6A6 /* btn.wav */; };
+		59BE23141C30A37F006DE6A6 /* PinyonScript-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 59BE23131C30A37F006DE6A6 /* PinyonScript-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		59BE23061C3063CD006DE6A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59BE23091C3063CD006DE6A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59BE230B1C3063CD006DE6A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59BE23111C308CBA006DE6A6 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
+		59BE23131C30A37F006DE6A6 /* PinyonScript-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PinyonScript-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		59BE22FE1C3063CD006DE6A6 /* retro-calculater */ = {
 			isa = PBXGroup;
 			children = (
+				59BE23131C30A37F006DE6A6 /* PinyonScript-Regular.ttf */,
+				59BE23111C308CBA006DE6A6 /* btn.wav */,
 				59BE22FF1C3063CD006DE6A6 /* AppDelegate.swift */,
 				59BE23011C3063CD006DE6A6 /* ViewController.swift */,
 				59BE23031C3063CD006DE6A6 /* Main.storyboard */,
@@ -124,7 +130,9 @@
 			files = (
 				59BE230A1C3063CD006DE6A6 /* LaunchScreen.storyboard in Resources */,
 				59BE23071C3063CD006DE6A6 /* Assets.xcassets in Resources */,
+				59BE23141C30A37F006DE6A6 /* PinyonScript-Regular.ttf in Resources */,
 				59BE23051C3063CD006DE6A6 /* Main.storyboard in Resources */,
+				59BE23121C308CBA006DE6A6 /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
